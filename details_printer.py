@@ -1,0 +1,8 @@
+print("What is your name,age and date of birth")
+print("name:")
+name = input()
+print("age:")
+age = input()
+print("date of birth")
+dob = input()
+print(name,age,dob)
